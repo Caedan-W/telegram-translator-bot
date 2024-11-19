@@ -135,7 +135,7 @@ sudo systemctl enable telegram-translator
 
 ## 更新日志
 
-### v1.0.0 (2024-01-20)
+### v1.0.0 (2024-11-19)
 - 初始版本发布
 - 支持基本的文本翻译功能
 
